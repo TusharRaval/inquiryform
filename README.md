@@ -1,3 +1,5 @@
+# live link:- https://preeminent-shortbread-a1cef2.netlify.app/
+# inquiry form use nodmailer for email notification and twilio for sms notification
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
